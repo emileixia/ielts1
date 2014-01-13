@@ -1,0 +1,27 @@
+{"questionlist":[
+
+
+
+        
+{"passage":"The goal is for the child to be physically active for a minimum of 60 minutes a day and restrict sedentary home activities to a maximum of two hours a day.",
+"question":"How long should the child be active?",
+"option1":"60 minutes",
+"option2":"40 minutes",
+"option3":"2 hours"
+},
+
+{"passage":"The nutmeg tree is native to tropical Indonesia, in a region known as the Spice Islands, and parts of Southeast Asia, where it has been used to produce spices for centuries.",
+"question":"You can find nutmeg trees in ____",
+"option1":"Indonesia",
+"option2":"Thailand",
+"option3":"Japan"
+},
+
+{"passage":"Technically, the word ‘pickle’ can refer to any pickled food, but in North America, most people think of cucumber pickles when pickles are under discussion.",
+"question":"In North America, a pickle is usually made from a ______",
+"option1":"cucumber",
+"option2":"pepper",
+"option3":"onion"
+}
+
+]}
