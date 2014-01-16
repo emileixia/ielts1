@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.ielts.two"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>IELTS2</name>
+
+    <description>
+        Synonyms 
+    </description>
+
+    <author href="http://www.internexia.com" email="emile@internexia.com">
+        Emile Dodds 
+    </author>
+
+</widget>
